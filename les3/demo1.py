@@ -1,5 +1,7 @@
-description = 'week'
-week = 1
+description = 'Year'
+
+Year = 1
+week = Year * 52
 days = week * 7
 hours = days * 24 
 minutes = hours * 60  
